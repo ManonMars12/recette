@@ -1,7 +1,6 @@
 pommes
 poires
 fraises
-beurre
 Changement 1
 Changement 2
 Changement 3 
